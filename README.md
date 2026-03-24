@@ -45,17 +45,18 @@ Created Splunk dashboard showing:
 ## 📸 Screenshots
 
 ### 🔹 Failed Login Trend
-![Failed Logins](screenshots/failed_logins_timechart.png)
+![Failed Logins](screenshots/failed_logins_timechart.PNG)
 
 ### 🔹 Attacker IP Detection
-![Attacker IP](screenshots/attacker_ip.png)
+![Attacker IP](screenshots/attacker_ip.PNG)
 
 ### 🔹 Failure Reason
-![Failure Reason](screenshots/failure_reason.png)
+![Failure Reason](screenshots/failure_reason.PNG)
 
 ### 🔹 Target System
-![Target System](screenshots/target_system.png)
+![Target System](screenshots/target_system.PNG)
 
 ### 🔹 Hydra Attack Simulation
-![Hydra Attack](screenshots/hydra_attack.png)
+![Hydra Attack](screenshots/hydra_attack.PNG)
+
 ---
