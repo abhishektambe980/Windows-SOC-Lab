@@ -11,7 +11,7 @@ This project demonstrates detection of an RDP brute-force attack using Splunk SI
 
 ## ⚔️ Attack Simulation
 Performed RDP brute-force attack using Hydra:
-hydra -L users.txt -P passwords.txt rdp://<target-ip>
+hydra -L users.txt -P passwords.txt rdp://192.168.56.105
 
 ## 🔍 Detection
 - Windows Event ID 4625 (Failed Login)
